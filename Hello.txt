@@ -1,1 +1,2 @@
 This line is testing the blame command
+This is to test diff command
